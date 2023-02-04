@@ -1,0 +1,5 @@
+com\alok\inventoryservice\repository\InventoryRepository.class
+com\alok\inventoryservice\InventoryServiceApplication.class
+com\alok\inventoryservice\model\Inventory.class
+com\alok\inventoryservice\service\InventoryService.class
+com\alok\inventoryservice\controller\InventoryController.class

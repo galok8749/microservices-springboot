@@ -1,0 +1,10 @@
+com\alok\productservice\dto\ProductRequest.class
+com\alok\productservice\controller\ProductController.class
+com\alok\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\alok\productservice\dto\ProductResponse.class
+com\alok\productservice\ProductServiceApplication.class
+com\alok\productservice\model\Product$ProductBuilder.class
+com\alok\productservice\repository\ProductRepository.class
+com\alok\productservice\service\ProductService.class
+com\alok\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\alok\productservice\model\Product.class
